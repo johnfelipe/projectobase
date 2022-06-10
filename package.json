@@ -1,16 +1,10 @@
 {
-  "name": "new-project",
+  "name": "default-project",
   "version": "0.0.0",
   "description": "",
   "main": "",
-  "scripts": {
-    "test": "mocha --config .mocharc.js"
-  },
-  "peerDependencies": {},
+  "scripts": {},
   "dependencies": {},
-  "devDependencies": {
-    "mocha": "9.2.2",
-    "trace-unhandled": "2.0.1"
-  },
+  "peerDependencies": {},
   "license": "ISC"
 }
